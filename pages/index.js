@@ -50,8 +50,8 @@ export default function Home() {
 
           <div className="text-center p-10 ">
             <h2 className="text-5xl py-2 text-teal-600 font-medium md:text-6xl">Hengameh</h2>
-            <h3 className="text-2xl py-2 md:text-3xl">Developer and designer</h3>
-            <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-gl mx-auto">Hi Im Hengameh.I am a full stack Developer Trainee at Code Your Future.Join me below and lets get cracking!</p>
+            <h3 className="text-2xl py-2 md:text-3xl">Full Stack Developer</h3>
+            <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-gl mx-auto">Hi Im Hengameh.I am a full stack Developer.Join me below and lets get cracking!</p>
           </div>
 
           <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600">
